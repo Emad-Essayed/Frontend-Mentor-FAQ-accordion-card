@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ accordion card solution
 
-This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/FAQ accordion-card-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Frontend Mentor - Profile card component
 
@@ -9,7 +9,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: [https://github.com/Emad-Essayed/Frontend-Mentor-FAQ-accordion-card](https://github.com/Emad-Essayed/Frontend-Mentor-FAQ-accordion-card)
-- Live Site URL: [https://emad-essayed.github.io/Frontend-Mentor-FAQ-Accordion-Card/](https://emad-essayed.github.io/Frontend-Mentor-FAQ-Accordion-Card/)
+- Live Site URL: [https://emad-essayed.github.io/Frontend-Mentor-FAQ-accordion-card/](https://emad-essayed.github.io/Frontend-Mentor-FAQ-accordion-card/)
 
 ### Built with
 
